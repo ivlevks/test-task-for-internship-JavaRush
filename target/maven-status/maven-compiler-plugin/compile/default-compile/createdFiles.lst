@@ -1,0 +1,11 @@
+com\game\config\WebConfig.class
+com\game\config\MyWebAppInit.class
+com\game\entity\Player.class
+com\game\entity\Profession.class
+com\game\controller\PlayerOrder.class
+com\game\repository\PlayerRepository.class
+com\game\controller\PlayerDataController.class
+com\game\service\impl\PlayerServiceImpl.class
+com\game\entity\Race.class
+com\game\config\AppConfig.class
+com\game\service\PlayerService.class
